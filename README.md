@@ -2,7 +2,7 @@
 
 i'm **derishatria** From Indonesia
 
-- 🔭 I’m currently working on a Devops Engineer @ Azsolusindo
+- 🔭 I’m currently working on a Devops Engineer @ Krom Bank
 - 🌱 I’m currently learning Programming
 
 <!-- 
